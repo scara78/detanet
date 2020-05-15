@@ -1,0 +1,2 @@
+# detanet
+Detanet Scripts
